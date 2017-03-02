@@ -1,0 +1,35 @@
+0 Feb 28 21:27:18 miko kernel: Active Scanned. | INAC to ACT: 0 | INAC to CACHE/FREE: 0 | ACT to INAC: 0 | FLUSHED: 0 | Pages in INACTIVE Queue: 3041 | Pages in ACTIVE Queue: 122175 
+1 Feb 28 21:27:19 miko kernel: Active Scanned. | INAC to ACT: 0 | INAC to CACHE/FREE: 0 | ACT to INAC: 0 | FLUSHED: 0 | Pages in INACTIVE Queue: 3042 | Pages in ACTIVE Queue: 412622 
+2 Feb 28 21:27:20 miko kernel: Active Scanned. | INAC to ACT: 0 | INAC to CACHE/FREE: 0 | ACT to INAC: 0 | FLUSHED: 0 | Pages in INACTIVE Queue: 3042 | Pages in ACTIVE Queue: 523157 
+3 Feb 28 21:27:21 miko kernel: Active Scanned. | INAC to ACT: 0 | INAC to CACHE/FREE: 0 | ACT to INAC: 0 | FLUSHED: 0 | Pages in INACTIVE Queue: 3042 | Pages in ACTIVE Queue: 688036 
+4 Feb 28 21:27:22 miko kernel: Active Scanned. | INAC to ACT: 0 | INAC to CACHE/FREE: 0 | ACT to INAC: 0 | FLUSHED: 0 | Pages in INACTIVE Queue: 3042 | Pages in ACTIVE Queue: 630525 
+5 Feb 28 21:27:23 miko kernel: Active Scanned. | INAC to ACT: 0 | INAC to CACHE/FREE: 0 | ACT to INAC: 0 | FLUSHED: 0 | Pages in INACTIVE Queue: 3042 | Pages in ACTIVE Queue: 883535 
+6 Feb 28 21:27:24 miko kernel: Active Scanned. | INAC to ACT: 0 | INAC to CACHE/FREE: 0 | ACT to INAC: 0 | FLUSHED: 0 | Pages in INACTIVE Queue: 3042 | Pages in ACTIVE Queue: 844588 
+7 Feb 28 21:27:25 miko kernel: Inactive Scanned. | Active Scanned. | INAC to ACT: 1410 | INAC to CACHE/FREE: 1449 | ACT to INAC: 0 | FLUSHED: 0 | Pages in INACTIVE Queue: 223 | Pages in ACTIVE Queue: 853552 
+8 Feb 28 21:27:26 miko kernel: Active Scanned. | INAC to ACT: 0 | INAC to CACHE/FREE: 0 | ACT to INAC: 0 | FLUSHED: 0 | Pages in INACTIVE Queue: 223 | Pages in ACTIVE Queue: 861905 
+9 Feb 28 21:27:27 miko kernel: Active Scanned. | INAC to ACT: 0 | INAC to CACHE/FREE: 0 | ACT to INAC: 0 | FLUSHED: 0 | Pages in INACTIVE Queue: 223 | Pages in ACTIVE Queue: 904708 
+10 Feb 28 21:27:28 miko kernel: Active Scanned. | INAC to ACT: 0 | INAC to CACHE/FREE: 0 | ACT to INAC: 0 | FLUSHED: 0 | Pages in INACTIVE Queue: 223 | Pages in ACTIVE Queue: 822420 
+11 Feb 28 21:27:29 miko kernel: Active Scanned. | INAC to ACT: 0 | INAC to CACHE/FREE: 0 | ACT to INAC: 0 | FLUSHED: 0 | Pages in INACTIVE Queue: 223 | Pages in ACTIVE Queue: 773680 
+12 Feb 28 21:27:30 miko kernel: Active Scanned. | INAC to ACT: 0 | INAC to CACHE/FREE: 0 | ACT to INAC: 15 | FLUSHED: 0 | Pages in INACTIVE Queue: 238 | Pages in ACTIVE Queue: 728918 
+13 Feb 28 21:27:31 miko kernel: Active Scanned. | INAC to ACT: 0 | INAC to CACHE/FREE: 0 | ACT to INAC: 1 | FLUSHED: 0 | Pages in INACTIVE Queue: 239 | Pages in ACTIVE Queue: 749862 
+14 Feb 28 21:27:32 miko kernel: Active Scanned. | INAC to ACT: 0 | INAC to CACHE/FREE: 0 | ACT to INAC: 0 | FLUSHED: 0 | Pages in INACTIVE Queue: 239 | Pages in ACTIVE Queue: 728421 
+15 Feb 28 21:27:33 miko kernel: Active Scanned. | INAC to ACT: 0 | INAC to CACHE/FREE: 0 | ACT to INAC: 0 | FLUSHED: 0 | Pages in INACTIVE Queue: 239 | Pages in ACTIVE Queue: 893477 
+16 Feb 28 21:27:34 miko kernel: Inactive Scanned. | Active Scanned. | INAC to ACT: 0 | INAC to CACHE/FREE: 54 | ACT to INAC: 92 | FLUSHED: 32 | Pages in INACTIVE Queue: 277 | Pages in ACTIVE Queue: 760907 
+17 Feb 28 21:27:35 miko kernel: Active Scanned. | INAC to ACT: 0 | INAC to CACHE/FREE: 0 | ACT to INAC: 143 | FLUSHED: 0 | Pages in INACTIVE Queue: 420 | Pages in ACTIVE Queue: 827596 
+18 Feb 28 21:27:36 miko kernel: Active Scanned. | INAC to ACT: 0 | INAC to CACHE/FREE: 0 | ACT to INAC: 459 | FLUSHED: 0 | Pages in INACTIVE Queue: 879 | Pages in ACTIVE Queue: 555541 
+19 Feb 28 21:27:37 miko kernel: Active Scanned. | INAC to ACT: 0 | INAC to CACHE/FREE: 0 | ACT to INAC: 512 | FLUSHED: 0 | Pages in INACTIVE Queue: 1391 | Pages in ACTIVE Queue: 729252 
+20 Feb 28 21:27:38 miko kernel: Active Scanned. | INAC to ACT: 0 | INAC to CACHE/FREE: 0 | ACT to INAC: 339 | FLUSHED: 0 | Pages in INACTIVE Queue: 1730 | Pages in ACTIVE Queue: 892423 
+21 Feb 28 21:27:39 miko kernel: Active Scanned. | INAC to ACT: 0 | INAC to CACHE/FREE: 0 | ACT to INAC: 130 | FLUSHED: 0 | Pages in INACTIVE Queue: 1860 | Pages in ACTIVE Queue: 756504 
+22 Feb 28 21:27:40 miko kernel: Active Scanned. | INAC to ACT: 0 | INAC to CACHE/FREE: 0 | ACT to INAC: 10 | FLUSHED: 0 | Pages in INACTIVE Queue: 1870 | Pages in ACTIVE Queue: 826018 
+23 Feb 28 21:27:41 miko kernel: Active Scanned. | INAC to ACT: 0 | INAC to CACHE/FREE: 0 | ACT to INAC: 0 | FLUSHED: 0 | Pages in INACTIVE Queue: 1870 | Pages in ACTIVE Queue: 712161 
+24 Feb 28 21:27:42 miko kernel: Active Scanned. | INAC to ACT: 0 | INAC to CACHE/FREE: 0 | ACT to INAC: 1 | FLUSHED: 0 | Pages in INACTIVE Queue: 1871 | Pages in ACTIVE Queue: 684284 
+
+25 Feb 28 21:27:43 miko kernel: Active Scanned. | INAC to ACT: 0 | INAC to CACHE/FREE: 0 | ACT to INAC: 3 | FLUSHED: 0 | Pages in INACTIVE Queue: 1874 | Pages in ACTIVE Queue: 682359 
+25 Feb 28 21:27:43 miko kernel: Inactive Scanned. | Active Scanned. | INAC to ACT: 0 | INAC to CACHE/FREE: 329 | ACT to INAC: 0 | FLUSHED: 32 | Pages in INACTIVE Queue: 1545 | Pages in ACTIVE Queue: 920901 
+25 Feb 28 21:27:43 miko kernel: Inactive Scanned. | Active Scanned. | INAC to ACT: 0 | INAC to CACHE/FREE: 339 | ACT to INAC: 0 | FLUSHED: 267 | Pages in INACTIVE Queue: 1206 | Pages in ACTIVE Queue: 882803 
+
+26 Feb 28 21:27:44 miko kernel: Active Scanned. | INAC to ACT: 0 | INAC to CACHE/FREE: 0 | ACT to INAC: 0 | FLUSHED: 0 | Pages in INACTIVE Queue: 1206 | Pages in ACTIVE Queue: 866569 26
+
+28 Feb 28 21:27:46 miko kernel: Active Scanned. | INAC to ACT: 0 | INAC to CACHE/FREE: 0 | ACT to INAC: 11 | FLUSHED: 0 | Pages in INACTIVE Queue: 1217 | Pages in ACTIVE Queue: 791349 
+29 Feb 28 21:27:47 miko kernel: Active Scanned. | INAC to ACT: 0 | INAC to CACHE/FREE: 0 | ACT to INAC: 0 | FLUSHED: 0 | Pages in INACTIVE Queue: 1217 | Pages in ACTIVE Queue: 825523 
+30 Feb 28 21:27:48 miko kernel: Active Scanned. | INAC to ACT: 0 | INAC to CACHE/FREE: 0 | ACT to INAC: 0 | FLUSHED: 0 | Pages in INACTIVE Queue: 1217 | Pages in ACTIVE Queue: 755485 
